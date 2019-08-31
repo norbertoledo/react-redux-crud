@@ -1,0 +1,24 @@
+{
+  "libros": [
+    {
+      "id": 2,
+      "nombre": "React Redux v7",
+      "precio": "50"
+    },
+    {
+      "id": 3,
+      "nombre": "Javascript",
+      "precio": 80
+    },
+    {
+      "id": "557c25e8-1739-403a-a980-59f9bca25846",
+      "nombre": "React Hooks",
+      "precio": "7854"
+    },
+    {
+      "id": "d08dbd4d-2318-49ae-bed9-7cb3d684b4e5",
+      "nombre": "React Native",
+      "precio": "120"
+    }
+  ]
+}
